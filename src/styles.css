@@ -34,3 +34,7 @@
     max-width: 50%;
     height: auto;
   }
+
+  html {
+    scroll-behavior: smooth;
+  }
