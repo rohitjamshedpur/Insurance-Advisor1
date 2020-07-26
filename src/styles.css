@@ -34,3 +34,10 @@
     max-width: 50%;
     height: auto;
   }
+  html {
+    scroll-behavior: smooth;
+  }
+  
+/* control image height */
+
+/* control image height */
